@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+requests
+scapy
+pydantic
+sqlalchemy
+aiofiles
+reportlab
+python-multipart
